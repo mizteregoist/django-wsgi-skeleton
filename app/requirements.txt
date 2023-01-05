@@ -1,0 +1,5 @@
+Django
+django-debug-toolbar
+django-bootstrap-v5
+psycopg2-binary
+gunicorn
