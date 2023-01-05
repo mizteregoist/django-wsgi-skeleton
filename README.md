@@ -1,3 +1,11 @@
+First init
+```
+cd project
+cd app
+PIPENV_VENV_IN_PROJECT=1 pipenv install --python 3.9 -r requirements.txt
+rm -rf .venv
+```
+
 При разворачивании в докере local version:
 
 ```
